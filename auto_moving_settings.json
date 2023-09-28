@@ -1,0 +1,27 @@
+{
+    "path_to_the_logs_folder": "auto_moving_files",
+    "directory_with_scanned_directories": "scanned_directories",
+    "directories": [
+        {
+            "input": "",
+            "output": "",
+            "time_limit_for_modified_time": 0,
+            "time_limit_for_first_seen": 0,
+            "move_by_last_modified": true,
+            "move_by_first_seen": true,
+            "save_folders": true,
+            "copy": true,
+            "overwrite_files": true,
+            "saved_move_files_info_to_text": true,
+            "saved_copy_files_info_to_text": true,
+            "saved_error_message_directory_to_text": true,
+            "file_name_exceptions": [
+
+            ],
+            "directory_name_exceptions": [
+
+            ]
+        }
+
+    ]
+}
